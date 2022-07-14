@@ -1,0 +1,2 @@
+# _gymTemplateBodyFirness
+Responsive design
